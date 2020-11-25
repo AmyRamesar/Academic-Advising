@@ -4,7 +4,7 @@ package mavenpackage;
  * Essential a runner class
  * The hard coded course info can be replace by different data files that can be read
  * The courses for the Student object will be obtained from the GUI
- * This can also be used for communication between the gui and the other classes 
+ * This can also be used for communication between the gui and the other classes. 
  */
 
 import java.util.ArrayList;
